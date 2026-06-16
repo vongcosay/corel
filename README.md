@@ -1,1 +1,1 @@
-# corel
+Macro trong corel
