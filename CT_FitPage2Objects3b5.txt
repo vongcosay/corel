@@ -1,0 +1,38 @@
+CorelTURK Sayfaya_Sigdir 3.05
+
+Kurulum ------------------------------------------------------------------------------------
+
+http://corelturk.blogspot.com/2008/02/coreldrawda-makrolar.html
+
+Sürüm Notlarý-------------------------------------------------------------------------------
+3.05
+Arayüz eklendi
+Marj (Pay) özelliði eklendi. Artýk belirli ölçüde ya da yüzdesel oranda pay verilebiliyor.
+Türkçe dýþýnda Ýngilizce dil desteði eklendi
+Türkçe ve Ýngilizce yardým metinleri eklendi
+
+2.0
+Sayfaya Sýðdýr 2.0 sürümünde çoklu sayfa desteði eklendi.
+Çoklu sayfalý belgelerdeki iþlemi her sayfa için bir kerede uygular.
+
+
+Kullaným -----------------------------------------------------------------------------------
+
+Bu makro bir CorelDRAW belgesiyle çalýþýrken sayfayý seçtiðiniz nesne ölçüsünde ya da sayfadaki tüm nesnelerin ölçüsünde yeniden boyutlandýrýr.
+
+1. Sayfayý seçili bir nesne ölçüsünde yeniden boyutlandýrmak için "Seçim" düðmesini seçip "Sayfaya Sýðdýr" düðmesine týklayýn.
+2. Sayfayý, sayfadaki tüm nesnelerin (Seçmeden) ölçüsünde yeniden boyutlandýrmak için "Tüm Nesneler" düðmesini seçin ve "Sayfaya Sýðdýr" düðmesine týklayýn.
+3. Çoklu sayfalarda tüm sayfalarý, sayfalardaki tüm nesnelerin ölçüsünde yeniden boyutlandýrmak için "Tüm Sayfalar" düðmesini seçin ve "Sayfaya Sýðdýr" düðmesine týklayýn.
+4. Nesne ölçüsü dýþýnda fazladan bir marj (Pay) vermek isterseniz "Marj" düðmesini týklayýp aktif olan alana birimi girin. Birim türünü alttaki Birim listesinden seçebilirsiniz.
+5. Marj (Pay) için birim deðil de oransal bir deðer seçmek isterseniz "%" düðmesine týklayýp aktif olan alana yüzde deðerini girin. Örneðin %5 bir marj vermek isterseniz aktif alana "5" deðeri girmeniz yeterli olacaktýr.
+
+
+Notlar ---------------------------------------------------------------------------------------
+
+Bu makronun daðýtýlmasý ve paylaþýlmasý kaynak belirtildiði sürece serbesttir.
+Makrolarýn kullanýmýndan dolayý tespit edilen sorun bulunmamaktadýr.
+Buna raðmen ortaya çýkabilecek olan sorunlardan hiçbir þekilde makro yazarý sorumlu deðildir.
+
+www.corelturk.blogspot.com
+cakir.kursad@gmail.com
+(C)2022 Kürþad Çakýr
